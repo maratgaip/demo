@@ -1,14 +1,8 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {category: "Kindle", price: "99.99", stocked: true, name: "Paperwhite"},
+  {category: "Kindle", price: "$199.99", stocked: true, name: "Voyage"},
+  {category: "Kindle", price: "249.99", stocked: false, name: "Oasis"},
+  {category: "Echo", price: "$114.99", stocked: true, name: "Echo Show"},
+  {category: "Echo", price: "$39.99", stocked: false, name: "Echo Dot"},
+  {category: "Echo", price: "$129.99", stocked: true, name: "Echo Spot"}
+]
