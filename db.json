@@ -4,6 +4,6 @@
   {"category": "Kindle", "price": "249.99", "stocked": false, "name": "Oasis"},
   {"category": "Echo", "price": "$114.99", "stocked": true, "name": "Echo Show"},
   {"category": "Echo", "price": "$39.99", "stocked": false, "name": "Echo Dot"},
-  {"category": "Echo", "price": "$129.99", "stocked": true, "name:" "Echo Spot"}
+  {"category": "Echo", "price": "$129.99", "stocked": true, "name": "Echo Spot"}
 ]
 }
